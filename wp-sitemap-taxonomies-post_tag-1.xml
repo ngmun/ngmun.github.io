@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:8000/wp-sitemap.xsl" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>http://localhost:8000/tag/alignment/</loc></url><url><loc>http://localhost:8000/tag/captions-2/</loc></url><url><loc>http://localhost:8000/tag/content/</loc></url><url><loc>http://localhost:8000/tag/css/</loc></url><url><loc>http://localhost:8000/tag/export/</loc></url><url><loc>http://localhost:8000/tag/image/</loc></url><url><loc>http://localhost:8000/tag/markup/</loc></url></urlset>
+<?xml-stylesheet type="text/xsl" href="https://ngmun.github.io/wp-sitemap.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://ngmun.github.io/tag/alignment/</loc></url><url><loc>https://ngmun.github.io/tag/captions-2/</loc></url><url><loc>https://ngmun.github.io/tag/content/</loc></url><url><loc>https://ngmun.github.io/tag/css/</loc></url><url><loc>https://ngmun.github.io/tag/export/</loc></url><url><loc>https://ngmun.github.io/tag/image/</loc></url><url><loc>https://ngmun.github.io/tag/markup/</loc></url></urlset>
